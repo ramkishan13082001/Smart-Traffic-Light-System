@@ -121,6 +121,8 @@ Simulation Screenshot
 
 ---
 # 📷 Project Screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d123e05-aa5a-45ef-82da-5b446ac1bfd1" />
+
 
 ## **🟢 LCD Connections**
 
