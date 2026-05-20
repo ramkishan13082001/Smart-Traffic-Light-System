@@ -120,6 +120,7 @@ Simulation Screenshot
 # **🔌 Circuit Connections**
 
 ---
+# 📷 Project Screenshot
 
 ## **🟢 LCD Connections**
 
